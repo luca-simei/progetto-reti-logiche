@@ -15,7 +15,7 @@ L'[implementazione](https://github.com/luca-simei/progetto-reti-logiche/blob/mai
 
 ### Test Bench
 
-Nel contesto dello sviluppo del circuito descritto, è stato utilizzato il set di test bench di esempio fornito per la simulazione. Ciò ha permesso di ricevere un feedback sui cambiamenti apportati al codice. Successivamente, è stato sviluppato un insieme personalizzato di test, focalizzato sull'identificazione dei casi che potrebbero condurre l'esecuzione alle condizioni critiche, al fine di verificare la completa correttezza del sistema.
+Nel contesto dello sviluppo del modulo descritto, è stato utilizzato il set di [test bench](https://github.com/luca-simei/progetto-reti-logiche/tree/main/Test_Bench/TB_Esempi) di esempio fornito per la simulazione. Ciò ha permesso di ricevere un feedback sui cambiamenti apportati al codice. Successivamente, è stato sviluppato un insieme personalizzato di [test bench](https://github.com/luca-simei/progetto-reti-logiche/tree/main/Test_Bench/TB_Personalizzati), focalizzato sull'identificazione dei casi che potrebbero condurre l'esecuzione alle condizioni critiche, al fine di verificare la completa correttezza del sistema.
 
 I test sviluppati per sforzare il componente in situazioni particolari sono i seguenti:
 - **Reset Test**: risposta corretta al segnale di RESET
